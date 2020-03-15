@@ -113,3 +113,13 @@ PD, SD, SADOC y FD
 - Ahora el líder de una facción puede hacer respawn general solo para los vehículos de su facción.
 - Ahora el líder de una pandilla/mafia, puede asignar el acceso de la compra de armas/drogas para sus miembros. (/darcontactos)
 - Corregido varios errores.
+
+**Versión 0.8**
+
+- Agregado comando administrativo para la creación de interiores ya sea para negocios/casas.
+- Nuevos modelos DL agregado objetos/skins.
+- Nuevos mapeos en diferentes lugares de Los Santos.
+- Nuevo comando para tirar dinero al suelo (Proximamente con su respectivo item).
+- Asignado las frecuencias de radio para las facciones publicas.
+> PD: 911 | SD: 999 | FD: 912 | SADOCS: 998| Gobierno: 379
+- Agregada la opción de expulsar a alguien de la frecuencia de radio.
