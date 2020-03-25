@@ -123,3 +123,13 @@ PD, SD, SADOC y FD
 - Asignado las frecuencias de radio para las facciones publicas.
 > PD: 911 | SD: 999 | FD: 912 | SADOCS: 998| Gobierno: 379
 - Agregada la opción de expulsar a alguien de la frecuencia de radio.
+
+**Versión - 0.9**
+
+- Ahora al comprar un vehículo se da la opción de registrarlo o no, otorgando así una matrícula aleatoria.
+- Los vehículos no registrados no tendrán matrícula. (Solo se podrán registrar en alguna sede de la PD o SD)
+- Ahora al usar /tirardinero se mostrará su item en el suelo.
+- La cantidad máxima para arrojar dinero son de 500$.
+- Nuevos modelos agregados para la PD/SD.
+- Agregados nuevos mapeos al servidor.
+- Corregido varios errores.
